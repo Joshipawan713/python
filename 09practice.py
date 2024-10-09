@@ -70,6 +70,5 @@ def odd_even(input):
     else:
         print("Please Enter input")
         
-odd_even(1)
+odd_even(2)
 
-# lecture - 6 - 32:42 last video
